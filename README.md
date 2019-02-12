@@ -1,4 +1,4 @@
-# PointNet.pytorch and FoldingNet decoder, add quantization, change the latent code size to 1024
+# PointNet.pytorch and FoldingNet decoder, add quantization, change latent code size from 512 to 1024
 This repo is implementation for PointNet(https://arxiv.org/abs/1612.00593) in pytorch. The model is in `pointnet.py`.
 
 
